@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dates-Reminder/static/css/main.337c23a3.css",
+    "main.js": "/Dates-Reminder/static/js/main.c74b956a.js",
+    "static/js/453.b1bee6f2.chunk.js": "/Dates-Reminder/static/js/453.b1bee6f2.chunk.js",
+    "index.html": "/Dates-Reminder/index.html",
+    "main.337c23a3.css.map": "/Dates-Reminder/static/css/main.337c23a3.css.map",
+    "main.c74b956a.js.map": "/Dates-Reminder/static/js/main.c74b956a.js.map",
+    "453.b1bee6f2.chunk.js.map": "/Dates-Reminder/static/js/453.b1bee6f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.337c23a3.css",
+    "static/js/main.c74b956a.js"
+  ]
+}
